@@ -8,3 +8,4 @@ Class Diagrams
 
 <!-- /code_chunk_output -->
 
+![Class diagram](class-diagram.png)
